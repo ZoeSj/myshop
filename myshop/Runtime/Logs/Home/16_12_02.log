@@ -1,0 +1,27 @@
+[ 2016-12-02T14:38:01+08:00 ] 127.0.0.1 /my/myshop/index.php/User/
+ERR: 非法操作:index
+
+[ 2016-12-02T15:15:07+08:00 ] 127.0.0.1 /my/myshop/index.php/User/register
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Le champ 'user_hobby' ne peut être vide (null)
+
+[ 2016-12-02T15:16:54+08:00 ] 127.0.0.1 /my/myshop/index.php/User/register
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Le champ 'user_hobby' ne peut être vide (null)
+
+[ 2016-12-02T15:17:00+08:00 ] 127.0.0.1 /my/myshop/index.php/User/register
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Le champ 'user_hobby' ne peut être vide (null)
+
+[ 2016-12-02T15:17:11+08:00 ] 127.0.0.1 /my/myshop/index.php/User/register
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Le champ 'user_hobby' ne peut être vide (null)
+
+[ 2016-12-02T15:19:35+08:00 ] 127.0.0.1 /my/myshop/index.php/User/register
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Le champ 'user_hobby' ne peut être vide (null)
+
+[ 2016-12-02T15:23:34+08:00 ] 127.0.0.1 /my/myshop/index.php/User/register
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Le champ 'user_hobby' ne peut être vide (null)
+
+[ 2016-12-02T21:45:03+08:00 ] 127.0.0.1 /my/myshop/index.php/User/
+ERR: 非法操作:index
+
+[ 2016-12-02T21:45:05+08:00 ] 127.0.0.1 /my/myshop/index.php/User/
+ERR: 非法操作:index
+
